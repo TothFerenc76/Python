@@ -1,1 +1,3 @@
 kiváncsi vagyok, hogy ezt fel tudom-e tölteni?
+vannak kétségeim, hogy ez a gagyi pycharm jó lesz-e?
+Kicsit megfejthetetlen a gittel való együttműködése.
