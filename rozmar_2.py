@@ -1,4 +1,5 @@
 # Ez nem mukodik, mert egy Int nem kaphat None-t.
+
 """
 szam = None 
 while szam > 0:
